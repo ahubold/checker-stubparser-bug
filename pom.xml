@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://maven.apache.org/POM/4.0.0"
+         xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
+  <modelVersion>4.0.0</modelVersion>
+  <groupId>com.example</groupId>
+  <artifactId>example</artifactId>
+  <version>1.0-SNAPSHOT</version>
+  <packaging>pom</packaging>
+  <modules>
+    <module>module1</module>
+<module>module2</module>
+<module>module3</module>
+<module>module4</module>
+<module>module5</module>
+<module>module6</module>
+<module>module7</module>
+<module>module8</module>
+<module>module9</module>
+<module>module10</module>
+<module>module11</module>
+<module>module12</module>
+<module>module13</module>
+<module>module14</module>
+<module>module15</module>
+<module>module16</module>
+<module>module17</module>
+<module>module18</module>
+<module>module19</module>
+<module>module20</module>
+<module>module21</module>
+<module>module22</module>
+<module>module23</module>
+<module>module24</module>
+<module>module25</module>
+<module>module26</module>
+<module>module27</module>
+<module>module28</module>
+<module>module29</module>
+<module>module30</module>
+<module>module31</module>
+<module>module32</module>
+<module>module33</module>
+<module>module34</module>
+<module>module35</module>
+<module>module36</module>
+<module>module37</module>
+<module>module38</module>
+<module>module39</module>
+<module>module40</module>
+<module>module41</module>
+<module>module42</module>
+<module>module43</module>
+<module>module44</module>
+<module>module45</module>
+<module>module46</module>
+<module>module47</module>
+<module>module48</module>
+<module>module49</module>
+<module>module50</module>
+<module>module51</module>
+<module>module52</module>
+<module>module53</module>
+<module>module54</module>
+<module>module55</module>
+<module>module56</module>
+<module>module57</module>
+<module>module58</module>
+<module>module59</module>
+<module>module60</module>
+<module>module61</module>
+<module>module62</module>
+<module>module63</module>
+<module>module64</module>
+<module>module65</module>
+<module>module66</module>
+<module>module67</module>
+<module>module68</module>
+<module>module69</module>
+<module>module70</module>
+<module>module71</module>
+<module>module72</module>
+<module>module73</module>
+<module>module74</module>
+<module>module75</module>
+<module>module76</module>
+<module>module77</module>
+<module>module78</module>
+<module>module79</module>
+<module>module80</module>
+<module>module81</module>
+<module>module82</module>
+<module>module83</module>
+<module>module84</module>
+<module>module85</module>
+<module>module86</module>
+<module>module87</module>
+<module>module88</module>
+<module>module89</module>
+<module>module90</module>
+<module>module91</module>
+<module>module92</module>
+<module>module93</module>
+<module>module94</module>
+<module>module95</module>
+<module>module96</module>
+<module>module97</module>
+<module>module98</module>
+<module>module99</module>
+<module>module100</module>
+  </modules>
+
+
+</project>
